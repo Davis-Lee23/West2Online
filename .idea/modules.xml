@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chap/chap.iml" filepath="$PROJECT_DIR$/chap/chap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/玩玩/liuda.iml" filepath="$PROJECT_DIR$/玩玩/liuda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/乐手/乐手.iml" filepath="$PROJECT_DIR$/乐手/乐手.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多态宠物/多态宠物.iml" filepath="$PROJECT_DIR$/多态宠物/多态宠物.iml" />
+      <module fileurl="file://$PROJECT_DIR$/整活.iml" filepath="$PROJECT_DIR$/整活.iml" />
+      <module fileurl="file://$PROJECT_DIR$/玩玩/玩玩.iml" filepath="$PROJECT_DIR$/玩玩/玩玩.iml" />
+      <module fileurl="file://$PROJECT_DIR$/西二/西二.iml" filepath="$PROJECT_DIR$/西二/西二.iml" />
+    </modules>
+  </component>
+</project>
